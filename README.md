@@ -1,55 +1,77 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F3E5F5&height=180&section=header&text=C%C3%A9cile%20Hentsch&fontSize=60&fontAlignY=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F3E5F5&height=160&section=header&text=Cécile%20Hentsch&fontSize=50" width="100%" />
 
-  <p align="center">
-    <strong>Développeuse Web Junior</strong> ↳ <a href="https://cecile-hentsch.vercel.app/">Portfolio</a>
-  </p>
-</div>
+  <br />
 
-<br />
+  <h1>Développeuse Web Junior</h1>
+  <p>Conception d'interfaces minimalistes & performantes ↳ <a href="https://cecile-hentsch.vercel.app/">Portfolio</a></p>
 
-### ↳ Stack Technique
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none;">
-    <td width="33%" valign="top" style="border: none;">
-      <font color="#FF8EAA"><strong>Frontend</strong></font><br />
-      Next.js, React, TypeScript.
+---
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>↳ Stack Technique</h3>
+      <p>Technologies identifiées sur mes projets :</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,figma,framer,github,vercel,vite&theme=light" />
     </td>
-    <td width="33%" valign="top" style="border: none;">
-      <font color="#FFD1BA"><strong>Styling</strong></font><br />
-      Tailwind CSS, SCSS.
-    </td>
-    <td width="33%" valign="top" style="border: none;">
-      <font color="#F3E5F5"><strong>Animation</strong></font><br />
-      Framer Motion, GSAP.
-    </td>
-  </tr>
-</table>
-
-<br />
-
-### ↳ Selected Projects
-* **Portfolio 2024** — _Next.js, Framer Motion, Tailwind_
-* **Kasa** — _React, SCSS (Application de location immobilière)_
-* **7 Wonders** — _JavaScript, CSS (Expérience interactive)_
-
-<br />
-
-### ↳ GitHub Insights
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=kXsato&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=FF8EAA&bg_color=faf9f9" alt="Stats" />
-    </td>
-    <td width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kXsato&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=555&bg_color=faf9f9" alt="Langs" />
+    <td width="50%" valign="top">
+      <h3>↳ Expertise</h3>
+      <ul>
+        <li><strong>Frameworks:</strong> Next.js, React</li>
+        <li><strong>Languages:</strong> TypeScript, JavaScript</li>
+        <li><strong>Styling & Motion:</strong> Tailwind CSS, Framer Motion</li>
+        <li><strong>Tools:</strong> Vite, Figma, Vercel</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
+### ↳ Projets Sélectionnés
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Portfolio 2024</strong><br />
+      Design éditorial & Motion fluide.<br />
+      <em>Next.js, Framer Motion, Tailwind</em><br />
+      ↳ <a href="https://cecile-hentsch.vercel.app/">Live Demo</a>
+    </td>
+    <td width="50%">
+      <strong>Cesizen</strong><br />
+      Projet collaboratif (Client/Interface).<br />
+      <em>React, TypeScript, Vite</em><br />
+      ↳ <a href="https://github.com/kXsato/cesizen">View Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>RoguelikeRetro</strong><br />
+      Développement d'un jeu type Roguelike.<br />
+      <em>JavaScript, Game Logic</em><br />
+      ↳ <a href="https://github.com/kXsato/roguelikeRetro">View Code</a>
+    </td>
+    <td width="50%">
+      </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+### ↳ GitHub Analytics
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,figma,vercel,git&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kXsato&show_icons=true&theme=transparent&hide_border=true&title_color=FF8EAA&text_color=555&icon_color=FFD1BA&bg_color=faf9f9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kXsato&layout=compact&theme=transparent&hide_border=true&title_color=FF8EAA&text_color=555&bg_color=faf9f9" width="45%" />
+</div>
+
+<br />
+
+<p align="center">
+  <font color="#FAF9F9">✧</font>
+</p>
+
 </div>
