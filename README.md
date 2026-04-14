@@ -57,21 +57,5 @@
   </tr>
 </table>
 
-<br />
 
----
 
-### ↳ GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kXsato&show_icons=true&theme=transparent&hide_border=true&title_color=FF8EAA&text_color=555&icon_color=FFD1BA&bg_color=faf9f9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kXsato&layout=compact&theme=transparent&hide_border=true&title_color=FF8EAA&text_color=555&bg_color=faf9f9" width="45%" />
-</div>
-
-<br />
-
-<p align="center">
-  <font color="#FAF9F9">✧</font>
-</p>
-
-</div>
